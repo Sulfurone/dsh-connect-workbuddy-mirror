@@ -1,0 +1,7 @@
+# Only this directory is a git repository; ignore DSH local artifacts.
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
